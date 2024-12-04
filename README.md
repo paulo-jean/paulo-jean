@@ -1,6 +1,6 @@
 # 👋 Oi, sou o Jean!
 ## Bem vindo ao meu perfil GitHub 😎
-- 👀 Meus interesses atuais são: Desenvolver aplicações com IA, resolver problemas reais e aprofundar meus conhecimentos em programação!
+- 👀 Meus interesses atuais são: Aprender e contribuir no universo do Desenvolvimento de Softwares, desenvolver aplicações com IA, resolver problemas reais e aprofundar meus conhecimentos em programação!
 - ⚡ Curiosidades: Comecei minha jornada no mundo da programação em 06/2024, e em 10/2024 com muito orgulho pude contribuir onde trabalho atualmente desenvolvendo um programa que automatiza dois processos burocráticos de dois supervisores: baixar vários arquivos pdf de um sistema interno da empresa e fazer a verificação de cada arquivo desse, página por página para saber se algumas tabelas estão preenchidas. Ao final, ele recebe um relatório informando exatamente quais arquivos não estão com suas tabelas preenchidas.
 
 ## 📫 Como me encontrar:
